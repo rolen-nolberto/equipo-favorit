@@ -1,0 +1,1 @@
+aqui iniciamos el viernes con base de datos
